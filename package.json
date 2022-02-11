@@ -1,14 +1,14 @@
 {
-  "name": "raganork",
+  "name": "Itz-MeBeast1",
   "version": "4.0.0",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
-  "main": "./Raganork/bot.js",
+  "description": "Itz-MeBeast1 whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "main": "./Itz-MeBeast1/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "git+https://github.com/Itz-MeBeast1/Itz-MeBeast1.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,14 +18,14 @@
     "WhatsAsena"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "developer": "Itz-MeBeast1 / @Itz-MeBeast1",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/Raganork/issues"
+    "url": "https://github.com/Itz-MeBeast1/Itz-MeBeast1/issues"
   },
-  "homepage": "https://github.com/souravkl11/Raganork#readme",
+  "homepage": "https://github.com/Itz-MeBeast1/Itz-MeBeast1#readme",
   "dependencies": {
-    "raganork-bot": "1.7.6",
+    "Itz-MeBeast1-bot": "1.7.6",
     "supervisor": "0.12.0",
     "file-type": "16.5.2",
     "sequelize": "6.13.0"
